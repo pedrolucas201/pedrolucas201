@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Pedro Gomes · Full Stack & Mobile" />
+<img src="assets/header-v2.svg" width="100%" alt="Pedro Gomes · Full Stack & Mobile" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=640&lines=App+Flutter+em+produ%C3%A7%C3%A3o+com+motoristas+em+campo;Backends+em+Go+no+GCP;Pagamentos+Pix+%2B+cart%C3%A3o+com+Laravel;S%C3%B3+subo+o+que+eu+sei+explicar;Aberto+a+vagas+remotas" alt="Typing SVG" /></a>
 
