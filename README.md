@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090c,55:0f2a24,100:1f6f5a&height=210&section=header&text=Pedro%20Gomes&fontSize=62&fontColor=3ddc97&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20%7C%20Flutter%20%C2%B7%20Go%20%C2%B7%20Laravel&descAlignY=56&descColor=c9f5e4" />
+<img src="assets/header.svg" width="100%" alt="Pedro Gomes · Full Stack & Mobile" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3DDC97&center=true&vCenter=true&width=640&lines=App+Flutter+em+produ%C3%A7%C3%A3o+com+motoristas+em+campo;Backends+em+Go+no+GCP;Pagamentos+Pix+%2B+cart%C3%A3o+com+Laravel;S%C3%B3+subo+o+que+eu+sei+explicar;Aberto+a+vagas+remotas" alt="Typing SVG" /></a>
 
@@ -124,6 +124,6 @@ var pedro = Dev{
 
 <sub>Projetos de clientes ficam fora daqui por contrato. Quer ver como eu trabalho? Me chama no LinkedIn.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f5a,45:0f2a24,100:07090c&height=110&section=footer" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
