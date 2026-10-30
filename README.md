@@ -105,7 +105,7 @@ var pedro = Dev{
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### ⛽ [gas-manager](https://github.com/pedrolucas201/gas-manager)
+### ⛽ gas-manager (código privado, em produção)
 
 > App offline-first pra uma revenda de gás: React Native + TypeScript no celular, painel web em React e API em Go com PostgreSQL.
 
